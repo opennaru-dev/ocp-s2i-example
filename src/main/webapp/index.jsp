@@ -1452,7 +1452,7 @@ Updates: disabled
                                         <div class="slideshow_inner_caption">
                                             <div class="slideshow_align_caption">
                                                 <h2 style="font-size:35px; "  class="avia-caption-title" itemprop="name">
-                                                    웹시스템 성능 튜닝과 장애 지원 서비스 - 소스 수정 배포 테스트
+                                                    웹시스템 성능 튜닝과 장애 지원 서비스 - 소스 수정 배포 테스트, 톰켓 젠킨스 배포
                                                 </h2>
                                                 <div class="avia-caption-content av_inherit_color" itemprop="description" style="font-size:18px; ">
                                                     <p>운영중인 웹서비스에 대한 성능 진단 및 튜닝<br> 웹시스템 트러블 슈팅 서비스</p>
